@@ -2,25 +2,92 @@
 <html>
   <head>
     <title>WIZRD</title>
-    <meta name="description" content="WIZRD Laboratories crafts modular automatons with electrified and mechanized vitality, infused with arcane ether and refined ingenuity." />
+    <meta name="description" content="WIZRD Laboratories crafts modular automatons with electrified and mechanized vitality infused with logical ether and refined ingenuity." />
     <style>
-      body {
-        max-width: 800px;
-        margin: 0 auto;
-        min-height: 100vh;
-        align-content: center;
-        background: url('../parchment.jpeg');
-        background-size: cover;
-      }
-      
-      img {
-        width: 100%;
-        align-content: center;
-        height: 100%;
-      }
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    min-height: 100vh;
+    align-content: center;
+    background: url('parchment.jpeg');
+    background-size: cover;
+    /*! padding: 20px; */
+}
+
+img {
+    width: 100%;
+    opacity: 0.95;
+    position: relative;
+    border-radius: 15px;
+    transition: all 10s;
+}
+
+.block {
+  align-content: center;
+  height: 100%;
+  position: relative;
+/*   background: rgba(255,255,255,0.25); */
+  margin: 20px;
+  padding: 0px;
+  margin: 20px;
+}
+
+.block:before, .block:after, .block2:before, .block2:after {
+    border-radius: 15px;
+
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00,#ffff00, #ff0000, #fb0094, 
+    #0000ff, #00ff00,#ffff00, #ff0000);
+    background-size: 400%;
+    width: calc(100%);
+    height: calc(100%  - 5px);
+    z-index: -1;
+    animation: steam 60s linear infinite;
+                transition: all 1s;
+                cursor: none;
+}
+
+.block2:before, .block2:after {
+  z-index: 2;
+  opacity: 0.1
+}
+
+.block2:hover:before, .block2:hover:after {
+  opacity: 0;
+  /*! position: relative; */
+}
+
+@keyframes steam {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.block:after {
+  filter: blur(500px);
+}
+
       </style>
   </head>
-  <body>
-    <img src="../Gray Morrow - Faust Aleph Null - 1967.jpg">
-  </body>
+
+<body>
+    <div class="block" style="">
+        <div class="block2">
+            <img src="Gray Morrow - Faust Aleph Null - 1967.jpg">
+        </div>
+    </div>
+  
+    <script>
+        console.log("Interesting? invokation@wizrd.sh");
+    </script>
+</body>
 </html>
