@@ -1,18 +1,18 @@
 ```
-`VHHH'     A      'VHHF/HHHHHHH/AHHHHHHHHV.HHHHHHHq.  HHHHHHHHHA    
-  VHH     .HA      `V.   'HH'   H'    AHV  'HH   `HH   HH'     HA 
-   VHH:   .VVHH   .V.     HH   '     AHV   'HH    H9.  HH      HHA  
-    VHH.  H' HHH  V.      HH        AHV     HHHHHHHH   HH      HHV  
-     VHH H'  `HH A.'      HH       AHV    , HH   'HH.  HH      HV  
-      VHH;    HHHV.       HH      AHV    ,H HH    'HH. HH.    HV  
-       VVF      VF/  ./HHHHHHHHH /HHHHHHHHHH HHH    'HH.HHHHHHY=============================================
+`VHHH'     V.      'VHHF/AHHHHHHF/AHHHHHHHHV`VHHHHHHH%. `VHHHHHHHH%.    
+  VHH     .HHA      `AV   'HH'    H'    AHV  'HH    `HH  'HH'    'HA 
+   VHH:   .VVHH    .AV     HH     '    AHV    HH     H9.  HH      HH  
+    VHH.  H' HHH  .AV      HH         AHV     HHHHHHHH.   HH      HH  
+     VHH H'  `HH .AV       HH        AHV    , HH'   'HH.  HH      HH  
+      VHH;     AHHV        HH       AHV    .H HH     'HH  HH     .HV 
+       VVF      VF   /AHHHHHHHHHHF/AHHHHHHHHF/AH      'HF/AHHHHHHHV'=========================================
        ===========================================================  >---:: WIZRD.SH ::---<  ================
-       HH       .MMMMM. .AMMMM.    .MMMMM.  .MMMM.    .MMMMM. AM=__=MA .MMMMM.  .MMMM.    AA  .MMM=  AMMMMH  
-       HH       M     M  M    M    M`   `M  M    M    M     M   'HH'   M`   `M  M    M    HH  M      M'   
-       HH       M=====M  M====M=.  M  ‽  M  MM===M=.  M=====M    HH    M  ⸘  M  MM===M=.  HH  M====  M=====.
-       HM       MM`` MM  MM``` MM  M     M  MM``` MM  MM`` MM    HH    M     M  MM``` MM  HH  MM```     ``HH 
-       HM       MM   MM  MM    MM  M.   .M  MM    MM  MM   MM    HH    M.   .M  MM    MM  HH  MM     H.   HH 
-       HMMMMM=. MM   MM  MM====MM   MMMMM   MM    MM  MM   MM    HH     MMMMM   MM    MM  HH  MM===  HH===HH 
+       HH       .MMMMM. .AMMMM.    .MMMMM.  .MMMM.    .MMMMM. AM=HH=MA .MMMMM.  .MMMM.    AA  MMMMMH  AMMMMH  
+       HH       M     M  M    M    M`   `M  M    M    M     M   'HH'   M`   `M  M    M    HH  M'      M'   
+       HH       MMHHHHM  MHHHHM%.  M  ‽  M  MMHHHMA.  MMHHHHM    HH    M  ⸘  M  MMHHHM%.  HH  MHHHHH  MHHHHH.
+       HM       MM`` MM  MM``` MM  M     M  MM``` MM  MM`` MM    HH    M     M  MM``` MM  HH  MM        ``HH 
+       HM       MM   MM  MM    MM  M.   .M  MM    MM  MM   MM    HH    M.   .M  MM    MM  HH  MM      H.   HH 
+       HMMMMM=. MM   MM  MMHHHMM    MMMMM   MM    MM  MM   MM    HH     MMMMM   MM    MM  HH  MMMMMH  HHHHHH' 
        ======================================================================================================
 
        𝐖𝐈𝐙𝐑𝐃 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐞𝐬 𝖜𝖔𝖗ӄ𝖘 𝖎𝖓 𝖕𝖚𝖗𝖘𝖚𝖎𝖙 𝖔𝖋 𝖙𝖍𝖊 𝖆𝖚𝖙𝖔𝖓𝖔𝖒𝖔𝖚𝖘 𝖆𝖌𝖊, 
@@ -31,4 +31,4 @@
 ```
 
   
-**[𝐖𝐈𝐙𝐑𝐃.𝒔𝒉](https://wizrd.sh}**
+**[𝐖𝐈𝐙𝐑𝐃.𝒔𝒉](https://wizrd.sh)**
