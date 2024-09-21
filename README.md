@@ -1,9 +1,9 @@
 ```
-`VHHH'      A      'VAHV/AHHHHHHHF/AHHHHHHHHV`VHHHHHHH%. `VHHHHHHHH%.    
-  VHH      AHA      AHV    'HH'    H'    AHV  'HH     HH  'HH'    'HA 
-   VHH:   .AVA.    AHV      HH     '    AHV    HH     #9.  HH      HH  
-    VHH.  AV VHA  AHV       HH         AHV     HHHHHHHH.   HH      HH  
-     VHH HV   VH AHV        HH        AHV    , HH'   'HH.  HH      HH  
+`VHHH'      A      'VHHV/AHHHHHHHF/AHHHHHHHHV`VHHHHHHH%. `VHHHHHHHH%.    
+  VHH      AHA       AV    'HH'    H'    AHV  'HH     HH  'HH'    'HA 
+   VHH:   .AVA.     AV      HH     '    AHV    HH     #9.  HH      HH  
+    VHH.  AV VHA   AV       HH         AHV     HHHHHHHH.   HH      HH  
+     VHH HV   VH  AV        HH        AHV    , HH'   'HH.  HH      HH  
       VHHH;    VHHV         HH       AHV    .H HH      HH  HH     .HV 
        VHF      VF   ./HHHHHHHHHHHF/AHHHHHHHHH HH       VF/AHHHHHHHV'==========================================
        ===========================================================  >---:: WIZRD.SH ::---<  ===================
