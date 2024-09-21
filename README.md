@@ -1,19 +1,19 @@
 ```
-`VHHH'     AA      'VAHF/AHHHHHHF/AHHHHHHHV`VHHHHHHH%. `VHHHHHHHH%.    
-  VHH     .HHA      AHV   'HH'   H'    AHV  'HH     HH  'HH'    'HA 
-   VHH:   .VHHA    AHV     HH    '    AHV    HH     H9.  HH      HH  
-    VHH.  H' HHH  AHV      HH        AHV     HHHHHHHH.   HH      HH  
-     VHH H'  `VH AHV       HH       AHV    , HH'   'HH.  HH      HH  
-      VHHH;    VHHV        HH      AHV    .H HH     'HH  HH     .HV 
-       VHF      VF    /HHHHHHHHHF/AHHHHHHHHF/AH      'HF/AHHHHHHHV'=========================================
-       ===========================================================  >---:: WIZRD.SH ::---<  ================
-       HH       .MMMMM. .AMMMM.    .MMMMM.  .MMMM.    .MMMMM. AM=HH=MA .MMMMM.  .MMMM.    AA  MMMMMH  AMMMMH  
-       HH       M     M  M    M    M`   `M  M    M    M     M   'HH'   M`   `M  M    M    HH  M'      M'   
-       HH       MMHHHHM  MHHHHM%.  M  ‽  M  MMHHHMA.  MMHHHHM    HH    M  ⸘  M  MMHHHM%.  HH  MHHHHH  MHHHHH.
-       HM       MM`` MM  MM``` MM  M     M  MM``` MM  MM`` MM    HH    M     M  MM``` MM  HH  MM        ` `HH 
-       HM       MM   MM  MM    MM  M.   .M  MM    MM  MM   MM    HH    M.   .M  MM    MM  HH  MM      H.   HH 
-       HMMMMM=. MM   MM  MMHHHMM    MMMMM   MM    MM  MM   MM    HH     MMMMM   MM    MM  HH  MMMMMH  HHHHHH' 
-       ======================================================================================================
+`VHHH'      A      'VAHV/AHHHHHHHF/AHHHHHHHHV`VHHHHHHH%. `VHHHHHHHH%.    
+  VHH      AHA      AHV    'HH'    H'    AHV  'HH     HH  'HH'    'HA 
+   VHH:   .AVA.    AHV      HH     '    AHV    HH     #9.  HH      HH  
+    VHH.  AV VHA  AHV       HH         AHV     HHHHHHHH.   HH      HH  
+     VHH HV   VH AHV        HH        AHV    , HH'   'HH.  HH      HH  
+      VHHH;    VHHV         HH       AHV    .H HH      HH  HH     .HV 
+       VHF      VF   ./HHHHHHHHHHHF/AHHHHHHHHH HH       VF/AHHHHHHHV'==========================================
+       ===========================================================  >---:: WIZRD.SH ::---<  ===================
+       H.        .MMMMM.  .AMMM.    .MMMMMM.  .MMMMM.   .MMMMM. AM=HH=MA .MMMMMM.  .MMMM.    AA  MMMMMH  AMMMA.  
+       HH.       MM   MM  MM  MM    MM'  'MM  MM   MM   MM   MM   'HH'   MM'  'MM  MM   MM   HH  MM '    MM'    
+       HH.       MMHHHHM  MHHHHM%.  MM    MM  MMHHHMA.  MMHHHHM    HH    MM    MM  MMHHHMA.  HH  MHHHH=  MHHHH.
+       HM.       MM`` MM  MM``` MM  MM    MM  MM``` MM  MM`` MM    HH    MM    MM  MM``` MM  HH  MM          `H 
+       HM%.      MM   MM  MM    MM  MM.  .MM  MM    MM  MM   MM    HH    MM.  .MM  MM    MM  HH  MM      #H  .H 
+       HMMMMMMMM MM   MM  MMHHHMM    MMMMMM   MM    MM  MM   MM    HH     MMMMMM   MM    MM  HH  MMMMMH  HHHHHV 
+       ========================================================================================================
 
        𝐖𝐈𝐙𝐑𝐃 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐞𝐬 𝖜𝖔𝖗ӄ𝖘 𝖎𝖓 𝖕𝖚𝖗𝖘𝖚𝖎𝖙 𝖔𝖋 𝖙𝖍𝖊 𝖆𝖚𝖙𝖔𝖓𝖔𝖒𝖔𝖚𝖘 𝖆𝖌𝖊, 
          𝖈𝖗𝖆𝖋𝖙𝖎𝖓𝖌 𝖆𝖓𝖉 𝖎𝖓𝖋𝖚𝖘𝖎𝖓𝖌 
